@@ -47,3 +47,9 @@ div#calma-listesi{
     border: 1px solid #2b2779;
     padding: 0.5rem;
 }
+
+
+p.mod-sayisi {
+    font-size: smaller;
+    color: #da2a2a;
+}

@@ -75,7 +75,8 @@ UIGöster();
         });
     
         const toplamModElemani = document.createElement("p"); 
-        toplamModElemani.textContent = calmaListesi.length; 
+        toplamModElemani.className = "mod-sayisi";
+        toplamModElemani.textContent = calmaListesi.length + " mod çalıyor."; 
         calmaListesiElemani.append(toplamModElemani);
     }
 
