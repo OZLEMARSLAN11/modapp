@@ -38,3 +38,12 @@ div.mod{
     transition-duration: 0.3s;
 
 }
+
+div#calma-listesi{
+    position:fixed;
+    right: 1rem;
+    top:1rem;
+    
+    border: 1px solid #2b2779;
+    padding: 0.5rem;
+}
